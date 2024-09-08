@@ -2,6 +2,10 @@
 
 The repository for a little "Wormier k21" upgrade with a XIAO-RP2040
 
+## Testing the numpad
+
+The keyboard tester on https://en.key-test.ru is very comfortable.
+
 ## Running "CircuitPython" firmware
 
 The "CircuitPython" is easier to modify as it is 100% transparent in the "CIRCUITPY" mass storage drive.
